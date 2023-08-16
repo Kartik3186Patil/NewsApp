@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="Read_more">Read more....</string>
+    <string name="welcome">Welcome To My NewsApp</string>
+    <string name="exploreNews">Explore News</string>
+    <string name="newsCategory">Select News Category</string>
+    <string name="business">Business</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="science">Science</string>
+    <string name="sports">Sports</string>
+    <string name="technology">Technology</string>
+</resources>

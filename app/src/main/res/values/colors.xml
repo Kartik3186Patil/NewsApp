@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lightish_gray">#E0E0E0</color>
+    <color name="grey">#484848</color>
+    <color name="sky_blue">#33d6ff</color>
+<!--    <color name="light_orange">#ffe0b3</color>-->
+<!--    <color name="light_orange_yellow">#ffd480</color>-->
+<!--    <color name="light_yellow_orange">#ffc180</color>-->
+<!--    <color name="orange">#ff901a</color>-->
+    <color name="light2_blue">#99c2ff</color>
+    <color name="deepSkyBlue">#00bfff</color>
+    <color name="light2blue">#80bfff</color>
+    <color name="light4blue">#cce0ff</color>
+    <color name="bluish_light">#3385ff</color>
+    <color name="pink">#ff33cc</color>
+    <color name="purple">#6666ff</color>
+</resources>
